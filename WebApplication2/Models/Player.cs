@@ -10,6 +10,6 @@ namespace WebApplication2.Models
         public int Id { get; set; }
         public string FName { get; set; }
         public string LName { get; set; }
-        public int Salary { get; set;}
+        public int Salary { get; set; }
     }
 }
