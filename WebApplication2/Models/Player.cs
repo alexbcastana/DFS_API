@@ -7,9 +7,9 @@ namespace WebApplication2.Models
 {
     public class Player
     {
-        private int Id { get; set; }
-        private string FName { get; set; }
-        private string LName { get; set; }
-        private int Salary { get; set;}
+        public int Id { get; set; }
+        public string FName { get; set; }
+        public string LName { get; set; }
+        public int Salary { get; set;}
     }
 }
